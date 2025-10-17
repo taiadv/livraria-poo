@@ -1,5 +1,9 @@
-package Model;
+package model;
 
+/**
+ * Representa um autor com nome, idade e nacionalidade.
+ * Herda da classe Pessoa.
+ */
 public class Autor extends Pessoa {
     private String nacionalidade;
 

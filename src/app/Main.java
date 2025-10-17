@@ -1,12 +1,14 @@
+package app;
+
 import java.util.List;
 
-import Model.Autor;
-import Model.Editora;
-import Model.Livro;
-import Service.CadastroDeLivros;
-import Model.Cliente;
-import Service.GerenciamentoDeVendas;
-// import Service.Cliente; // Removed because it cannot be resolved
+import model.Autor;
+import model.Editora;
+import model.Livro;
+import service.CadastroDeLivros;
+import model.Cliente;
+import service.GerenciamentoDeVendas;
+// import service.Cliente; // Removed because it cannot be resolved
 
 import java.util.ArrayList;
 
